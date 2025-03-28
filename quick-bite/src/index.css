@@ -29,3 +29,9 @@
   --brown: #6f5e4d;
   --bg-coffee: #642f21;
 }
+
+body, html{
+  font-size: 14px;
+  font-family: var(--roboto-font);
+  font-weight: 300;
+}
