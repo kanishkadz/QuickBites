@@ -35,3 +35,17 @@ body, html{
   font-family: var(--roboto-font);
   font-weight: 300;
 }
+
+@media (max-width: 992px){
+  body, html{
+    font-size: 0.875rem;
+  }
+}
+
+/* headline tag */
+h1, h2, h3, h4, h5, h6{
+  font-family: var(--oswald-font);
+  font-weight: 500;
+  text-transform: uppercase;
+  line-height: 1.3;
+}
