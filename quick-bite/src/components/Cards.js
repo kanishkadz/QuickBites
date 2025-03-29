@@ -11,7 +11,7 @@ function Cards({image, rating, title, paragraph, price}) {
                 </div>
                 <Card.Body>
                     <div className="d-flex align-items-center justify-content-between">
-                        <div className="item_rating">Rating</div>
+                        <div className="item_rating">{rating}</div>
                         <div className="wishlist">
                             <i class="bi bi-heart"></i>
                         </div>
