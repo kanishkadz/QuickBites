@@ -42,3 +42,13 @@ header .logo img{
     max-width: inherit;
     max-height: 80px;
 }
+
+header .nav-link{
+    display: inline-flex;
+    justify-content: center;
+    color: (--white);
+    padding: 0 1rem;
+    font-size: 1.125rem;
+    font-weight: 500;
+    font-family: var(--oswald-font);
+}
