@@ -9,6 +9,7 @@ import Image6 from "../../assets/menu/burger-16.jpg";
 import Image7 from "../../assets/menu/burger-17.jpg";
 import Image8 from "../../assets/menu/burger-18.jpg";
 import Cards from '../../components/Cards';
+import { Link } from 'react-router-dom';
 
 // Mock Data Cards
 const mockData = [
@@ -102,6 +103,18 @@ function Section3() {
                             // renderRatingIcons={renderRatingIcons}
                         />
                     ))}
+                </Row>
+
+                <Row className="pt-5">
+                    <Col sm={6} lg={5}>
+                        <div className="ads_box ads_img1 mb-5 mb-md-0">
+                            <h4 className="mb-0">GET YOUR FREE</h4>
+                            <h5>CHEESE FRIES</h5>
+                            <Link to="/" className="btn btn_red px-4 rounded-0">
+                                Learn More
+                            </Link>
+                        </div>
+                    </Col>
                 </Row>
             </Container>
         </section>
