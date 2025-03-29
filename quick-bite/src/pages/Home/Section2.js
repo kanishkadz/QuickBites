@@ -45,7 +45,7 @@ function Section2() {
                 <Container>
                     <Row className="justify-content-md-center">{mockData.map((cardData, index) => (
                         <Col md={6} lg={4} className="mb-4 mb-md-0" key={index}>
-                            <div className="about_box text-ccenter">
+                            <div className="about_box text-center">
                                 <div className="about_icon">
                                     <img src={cardData.image} className="img-fluid" alt="icon" />
                                 </div>
