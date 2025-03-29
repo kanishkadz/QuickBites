@@ -89,6 +89,11 @@ function Section3() {
                         </p>
                     </Col>
                 </Row>
+                <Row>
+                    {mockData.map((cardData, index) => (
+                        
+                    ))}
+                </Row>
             </Container>
         </section>
     )
