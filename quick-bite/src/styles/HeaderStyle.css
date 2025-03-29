@@ -103,4 +103,8 @@ header .roundpoint{
         width: 2.5rem;
         height: 2.5rem;
     }
+    header .nav-link{
+        color: var(--light-black);
+        padding: 1rem !important;
+    }
 }
