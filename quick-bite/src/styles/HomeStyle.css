@@ -259,6 +259,16 @@
     .about_box p{
         padding: 0;
     }
+    .bg_parallax_scroll{
+        background-attachment: scroll;
+        height: 500px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .promotion_section h2{
+        font-size: 2.25rem;
+    }    
 }
 
 @media (max-width:767px){
