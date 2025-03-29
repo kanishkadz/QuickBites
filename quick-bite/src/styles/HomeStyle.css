@@ -39,7 +39,7 @@
     line-height: 1;
 }
 
-.hero_section .hero_text{
+.hero_section .hero_text h1{
     font-family: var(--lilita-font);
     font-size: 7rem;
     line-height: 1;
