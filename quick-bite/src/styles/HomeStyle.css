@@ -18,3 +18,11 @@
     height: 176px;
     text-align: center;    
 }
+
+.hero_section .badge_text{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
