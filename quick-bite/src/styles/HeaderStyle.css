@@ -99,4 +99,8 @@ header .roundpoint{
         outline: none;
         box-shadow: none;
     }
+    header .navbar-toggler-icon{
+        width: 2.5rem;
+        height: 2.5rem;
+    }
 }
