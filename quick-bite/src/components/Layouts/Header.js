@@ -5,7 +5,7 @@ import '../../styles/HeaderStyle.css';
 function Header() {
   return (
     <>
-      <Navbar bg="dark" data-bs-theme="dark">
+      <Navbar>
         <Container>
           <Navbar.Brand href="#home">Navbar</Navbar.Brand>
           <Nav className="me-auto">
@@ -16,7 +16,7 @@ function Header() {
         </Container>
       </Navbar>
       <br />
-      <Navbar bg="primary" data-bs-theme="dark">
+      <Navbar>
         <Container>
           <Navbar.Brand href="#home">Navbar</Navbar.Brand>
           <Nav className="me-auto">
