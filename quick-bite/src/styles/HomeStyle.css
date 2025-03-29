@@ -219,6 +219,13 @@
     font-size: 18px;
 }
 
+/* home promotion */
+.promotion_section{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background: var(--light-grey);
+}
+
 /* media query */
 @media (max-width:992px){
     /* home about */
