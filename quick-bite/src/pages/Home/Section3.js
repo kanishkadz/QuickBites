@@ -83,18 +83,20 @@ const mockData = [
 const renderRatingIcons = (rating) => {
     const stars = [];
 
-    for(let i=0; i<5; i++){
-        if(rating > 0.5){
+    for (let i = 0; i < 5; i++) {
+        if (rating >= 1) {
             stars.push(<i key={i} className="bi bi-star-fill"></i>);
-            rating--
-        } else if(rating > 0 && rating < 1){
-            stars.push(<i key={"half"} className="bi bi-star-fill"></i>);
-            rating--            
+            rating -= 1;
+        } else if (rating >= 0.5) {
+            stars.push(<i key={`half${i}`} className="bi bi-star-half"></i>);
+            rating -= 1;
         } else {
-            stars.push(<i key={`empty${i}`} className="bi bi-star-fill"></i>);
+            stars.push(<i key={`empty${i}`} className="bi bi-star"></i>);
         }
     }
-}
+    return stars;
+};
+
 
 function Section3() {
     return (
@@ -110,7 +112,7 @@ function Section3() {
                 </Row>
                 <Row>
                     {mockData.map((cardData, index) => (
-                        <Cards 
+                        <Cards
                             key={index}
                             image={cardData.image}
                             rating={cardData.rating}
