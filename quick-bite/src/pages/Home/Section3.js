@@ -92,7 +92,15 @@ function Section3() {
                 </Row>
                 <Row>
                     {mockData.map((cardData, index) => (
-                        <Cards />
+                        <Cards 
+                            key={index}
+                            image={cardData.image}
+                            rating={cardData.rating}
+                            title={cardData.title}
+                            paragraph={cardData.paragraph}
+                            price={cardData.price}
+                            renderRatingIcons={renderRatingIcons}
+                        />
                     ))}
                 </Row>
             </Container>
