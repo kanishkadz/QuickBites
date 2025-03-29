@@ -96,6 +96,9 @@
     margin-top: 30px;
     margin-bottom: 20px;
 }
+.about_box p{
+    padding: 0 20px;
+}
 
 /* media query */
 @media (max-width:767px){
