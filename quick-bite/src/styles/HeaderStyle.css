@@ -86,3 +86,13 @@ header .roundpoint{
     top: 3.2px;
     right: -8px;
 }
+
+/* media query */
+@media (max-width: 992px){
+    header .navbar{
+        background-color: var(--white);
+    }
+    header .navbar-toggler{
+        border: none;
+    }
+}
