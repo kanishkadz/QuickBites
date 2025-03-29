@@ -117,7 +117,7 @@ function Section3() {
                             title={cardData.title}
                             paragraph={cardData.paragraph}
                             price={cardData.price}
-                            // renderRatingIcons={renderRatingIcons}
+                            renderRatingIcons={renderRatingIcons}
                         />
                     ))}
                 </Row>
