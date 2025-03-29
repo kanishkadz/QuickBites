@@ -51,4 +51,10 @@ header .nav-link{
     font-size: 1.125rem;
     font-weight: 500;
     font-family: var(--oswald-font);
+    text-transform: uppercase;
+    -webkit-transition: all 15ms ease-in-out;
+    -ms-transition: all 15ms ease-in-out;
+    -o-transition: all 15ms ease-in-out;
+    -moz-transition: all 15ms ease-in-out;
+    transition: all 15ms ease-in-out;  
 }
