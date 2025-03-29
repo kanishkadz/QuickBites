@@ -78,6 +78,12 @@
     font-size: 19px;
 }
 
+.about_wrapper{
+    background: var(--yellow);
+    padding-top: 17px;
+    padding-bottom: 30px;
+}
+
 /* media query */
 @media (max-width:767px){
     .hero_section .hero_text h1{
