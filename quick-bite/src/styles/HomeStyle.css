@@ -96,8 +96,24 @@
     margin-top: 30px;
     margin-bottom: 20px;
 }
+
 .about_box p{
     padding: 0 20px;
+}
+
+/* home menu */
+.menu_section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.menu_section .card-img-top{
+    transition: all 500ms ease-in-out;
+}
+
+.menu_section h2{
+    font-size: 3.5rem;
+    color: var(--light-red);
 }
 
 /* media query */
