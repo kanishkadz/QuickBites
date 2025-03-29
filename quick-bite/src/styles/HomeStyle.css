@@ -237,6 +237,11 @@
     .hero_section .hero_text h1{
         font-size: 5.5rem;
     }
+
+    /* home menu */
+    .menu_section .para{
+        padding: 10px 0px;
+    }
 }
 
 
