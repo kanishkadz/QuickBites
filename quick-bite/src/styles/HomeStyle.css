@@ -68,6 +68,16 @@
     width: 100%;
 }
 
+.about_section h2{
+    font-size: 3.5rem;
+}
+
+.about_section p{
+    color: var(--grey);
+    padding: 20px 30px;
+    font-size: 19px;
+}
+
 /* media query */
 @media (max-width:767px){
     .hero_section .hero_text h1{
