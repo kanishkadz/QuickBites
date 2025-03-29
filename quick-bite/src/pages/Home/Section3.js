@@ -8,6 +8,7 @@ import Image5 from "../../assets/menu/burger-15.jpg";
 import Image6 from "../../assets/menu/burger-16.jpg";
 import Image7 from "../../assets/menu/burger-17.jpg";
 import Image8 from "../../assets/menu/burger-18.jpg";
+import Cards from '../../components/Cards';
 
 // Mock Data Cards
 const mockData = [
@@ -91,7 +92,7 @@ function Section3() {
                 </Row>
                 <Row>
                     {mockData.map((cardData, index) => (
-                        
+                        <Cards />
                     ))}
                 </Row>
             </Container>
