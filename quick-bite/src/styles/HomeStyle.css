@@ -38,3 +38,11 @@
     font-weight: 600;
     line-height: 1;
 }
+
+.hero_section .hero_text{
+    font-family: var(--lilita-font);
+    font-size: 7rem;
+    line-height: 1;
+    margin-bottom: 15px;
+    letter-spacing: 3px;
+}
