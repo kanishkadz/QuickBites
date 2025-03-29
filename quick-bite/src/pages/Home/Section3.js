@@ -86,7 +86,7 @@ function Section3() {
                 <Row>
                     <Col lg={{ span: 8, offset: 2 }} className="text-center mb-5">
                         <h2>OUR CRAZY BURGERS</h2>
-                        <p>Aliquam a augue suscipit, luctus neque purus ipsum neque undo
+                        <p className="para">Aliquam a augue suscipit, luctus neque purus ipsum neque undo
                             dolor primis libero tempus, blandit a cursus varius magna.
                         </p>
                     </Col>
