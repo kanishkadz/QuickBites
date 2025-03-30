@@ -20,7 +20,7 @@ const mockData = [
     {
         image: Delivery,
         title: "Fastest Delivery",
-        paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
+        paragraph: `Fresh, hot, and delicious food delivered to your doorstep in no time, because great taste shouldn't have to wait!`,
     },
 ];
 
