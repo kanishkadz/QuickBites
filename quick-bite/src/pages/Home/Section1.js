@@ -24,7 +24,7 @@ function Section1() {
                             <h1 className="text-white">New Burger</h1>
                             <h2 className="text-white">With Onion</h2>
                             <p className="text-white pt-2 pb-4">
-                                Introducing the Onion Burst Burger – a juicy, flame-grilled patty topped with crispy onion rings, caramelized onions, and zesty onion aioli for the ultimate onion lover’s delight!
+                            Introducing the Onion Burst Burger – a mouthwatering creation crafted for true onion lovers! Featuring a juicy, flame-grilled patty stacked with crispy golden onion rings, sweet caramelized onions, and a rich, zesty onion aioli, all nestled in a soft, toasted bun. Every bite delivers the perfect balance of crunch, smokiness, and savory goodness, making it an irresistible treat for burger enthusiasts!
                             </p>
                             <Link to="/" className="btn order_now">
                                 Order Now
