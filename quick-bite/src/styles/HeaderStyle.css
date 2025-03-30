@@ -87,7 +87,6 @@ header .roundpoint{
     right: -8px;
 }
 
-/* media query */
 @media (max-width: 992px){
     header .navbar{
         background-color: var(--white);
