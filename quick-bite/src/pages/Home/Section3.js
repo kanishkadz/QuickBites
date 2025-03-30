@@ -11,7 +11,7 @@ import Image8 from "../../assets/menu/burger-18.jpg";
 import Cards from '../../components/Cards';
 import { Link } from 'react-router-dom';
 
-// Mock Data Cards
+
 const mockData = [
     {
         id: "0001",
@@ -79,7 +79,7 @@ const mockData = [
     },
 ];
 
-//rating function
+
 const renderRatingIcons = (rating) => {
     const stars = [];
 
