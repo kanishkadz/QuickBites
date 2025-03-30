@@ -1,4 +1,3 @@
-/* section1 */
 .hero_section{
     position: relative;
     background: url("../assets/hero/hero-1.jpg") no-repeat center center;
@@ -59,7 +58,6 @@
     padding: 0 5%;
 }
 
-/* section 2 */
 .about_section{
     padding-top: 80px;
     padding-bottom: 300px;
@@ -101,7 +99,6 @@
     padding: 0 20px;
 }
 
-/* home menu */
 .menu_section{
     padding-top: 100px;
     padding-bottom: 100px;
@@ -219,7 +216,6 @@
     font-size: 18px;
 }
 
-/* home promotion */
 .promotion_section {
     padding-top: 60px;
     padding-bottom: 60px;
@@ -247,7 +243,6 @@
     height: 700px;
 }
 
-/* Home Shop 6.0 */
 .shop_section {
     padding: 100px 0 0;
     background: var(--yellow);
@@ -294,7 +289,6 @@
     left: unset;
   }
   
-  /* Home Blog 7.0 */
   .blog_section {
     padding: 80px 0 50px;
     background: url("../assets/blog/reviews.jpg") no-repeat center center;
@@ -325,7 +319,6 @@
     margin-bottom: 2rem;
   }
   
-  /* Home Contact 8.0 */
   .contact_section {
     background: url("../assets/footer/banner-1.jpg") no-repeat center center;
     background-size: cover;
@@ -350,7 +343,6 @@
     font-weight: 700;
   }
   
-  /* Home Footer 9.0 */
   footer {
     padding-top: 80px;
   }
@@ -399,7 +391,6 @@
     display: none;
   }
   
-  /* Scroll Top */
   .scroll_top {
     position: fixed;
     right: 30px;
@@ -419,15 +410,12 @@
     color: var(--white);
   }
   
-  /* Media Query Mobiles */
   
   @media (max-width: 1200px) {
-    /* Home Promotion 4.0 */
     .promotion_section h2 {
       font-size: 2.25rem;
     }
   
-    /* Home Contact 8.0 */
     .contact_section h2 {
       font-size: 3.5rem;
     }
@@ -437,7 +425,6 @@
   }
   
   @media (max-width: 992px) {
-    /* Home About 2.0 */
     .about_section h2 {
       font-size: 2.5rem;
     }
@@ -448,7 +435,6 @@
       padding: 0;
     }
   
-    /* Home Parallax 5.0 */
     .bg_parallax_scroll {
       background-attachment: scroll;
       height: 500px;
@@ -456,17 +442,14 @@
   }
   
   @media (max-width: 767px) {
-    /* Home Hero 1.0 */
     .hero_section .hero_text h1 {
       font-size: 5.5rem;
     }
   
-    /* Home Menu 3.0 */
     .menu_section .para {
       padding: 10px 0px;
     }
   
-    /* Home Shop 6.0 */
     .shop_section h4 {
       font-size: 1.8rem;
     }
@@ -481,7 +464,6 @@
       height: auto;
     }
   
-    /* Home Blog 7.0 */
     .blog_section .carousel.slide .carousel-inner .carousel-caption p {
       font-size: 1rem;
     }
