@@ -17,9 +17,7 @@ function Section6() {
                   <img src={User1} className="img-fluid" alt="User-1" />
                 </div>
                 <p>
-                  " Etiam sapien sem at sagittis congue augue massa varius
-                  sodales sapien undo tempus dolor egestas magna suscipit magna
-                  tempus aliquet porta sodales augue suscipit luctus neque "
+                  " The burgers are juicy, flavorful, and cooked to perfection. Plus, the delivery was super fast! Definitely my new go-to spot for a great meal. "
                 </p>
                 <div className="item_rating mb-2">
                   <i className="bi bi-star-fill"></i>
@@ -37,9 +35,7 @@ function Section6() {
                   <img src={User2} className="img-fluid" alt="User-2" />
                 </div>
                 <p>
-                  " Etiam sapien sem at sagittis congue augue massa varius
-                  sodales sapien undo tempus dolor egestas magna suscipit magna
-                  tempus aliquet porta sodales augue suscipit luctus neque "
+                  " I’ve tried many burger joints, but nothing beats the taste and quality here. The toppings are fresh, and the flavors are amazing. Highly recommend! "
                 </p>
                 <div className="item_rating mb-2">
                   <i className="bi bi-star-fill"></i>
@@ -57,9 +53,7 @@ function Section6() {
                   <img src={User3} className="img-fluid" alt="User-3" />
                 </div>
                 <p>
-                  " Etiam sapien sem at sagittis congue augue massa varius
-                  sodales sapien undo tempus dolor egestas magna suscipit magna
-                  tempus aliquet porta sodales augue suscipit luctus neque "
+                  " Ordered a meal for my family, and everything arrived hot and fresh within 30 minutes. The fries were crispy, and the burger was just perfect! "
                 </p>
                 <div className="item_rating mb-2">
                   <i className="bi bi-star-fill"></i>
@@ -77,9 +71,7 @@ function Section6() {
                   <img src={User4} className="img-fluid" alt="User-4" />
                 </div>
                 <p>
-                  " Etiam sapien sem at sagittis congue augue massa varius
-                  sodales sapien undo tempus dolor egestas magna suscipit magna
-                  tempus aliquet porta sodales augue suscipit luctus neque "
+                  " From the soft bun to the juicy patty, every bite was pure heaven. I also love the crazy burger options—they’re unique and super tasty! "
                 </p>
                 <div className="item_rating mb-2">
                   <i className="bi bi-star-fill"></i>
