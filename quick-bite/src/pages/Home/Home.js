@@ -14,25 +14,12 @@ function Home() {
   return (
     <>
       <Layout>
-        {/* hero banner */}
         <Section1 />
-
-        {/* hero about */}
         <Section2 />
-
-        {/* home menu */}
         <Section3 />
-
-        {/* home promotion */}
         <Section4 />
-
-        {/* home shop */}
         <Section5 />
-
-        {/* home blog */}
         <Section6 />
-
-        {/* home contact */}
         <Section7 />
       </Layout>
     </>
