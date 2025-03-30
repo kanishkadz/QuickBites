@@ -30,9 +30,9 @@ function Footer() {
             <Col sm={6} lg={3} className="mb-4 mb-lg-0">
               <div className="text-center">
                 <h5>Location</h5>
-                <p>5505 Waterford District</p>
-                <p>Dr, Miami, FL 33126</p>
-                <p>United States</p>
+                <p>12, MG Road, Koramangala,</p>
+                <p>Bengaluru, Karnataka 560095</p>
+                <p>India</p>
               </div>
             </Col>
             <Col sm={6} lg={3} className="mb-4 mb-lg-0">
@@ -46,7 +46,7 @@ function Footer() {
             <Col sm={6} lg={3} className="mb-4 mb-lg-0">
               <div className="text-center">
                 <h5>Order Now</h5>
-                <p>Quaerat neque purus ipsum</p>
+                <p>Fresh & Tasty!</p>
                 <p>
                   <Link to="tel:9998887777" className="calling">
                     999-888-7777
@@ -57,7 +57,7 @@ function Footer() {
             <Col sm={6} lg={3} className="mb-4 mb-lg-0">
               <div className="text-center">
                 <h5>Follow Us</h5>
-                <p>Quaerat neque purus ipsum</p>
+                <p>Stay Connected!</p>
                 <ul className="list-unstyled text-center mt-2">
                   <li>
                     <Link to="/">
@@ -89,7 +89,7 @@ function Footer() {
                 <ul className="list-unstyled text-center mb-0">
                   <li>
                     <Link to="/">
-                      © 2023 <span>CODE4EDUCATION</span>. All Rights Reserved
+                      © 2025 <span>Kanishka Anand</span>. All Rights Reserved
                     </Link>
                   </li>
                   <li>
