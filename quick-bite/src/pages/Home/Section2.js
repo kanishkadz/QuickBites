@@ -5,7 +5,7 @@ import Pizza from "../../assets/about/pizza.png";
 import Salad from "../../assets/about/salad.png";
 import Delivery from "../../assets/about/delivery-bike.png";
 
-// Mock Data Cards
+
 const mockData = [
     {
         image: Pizza,
