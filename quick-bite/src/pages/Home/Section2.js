@@ -10,12 +10,12 @@ const mockData = [
     {
         image: Pizza,
         title: "Original",
-        paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
+        paragraph: `A timeless delight with a perfectly seasoned patty, fresh toppings, and a soft bun, bringing you the authentic taste of a true classic!`,
     },
     {
         image: Salad,
         title: "Qualty Foods",
-        paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
+        paragraph: `Where every bite is crafted with the finest ingredients, ensuring delicious flavors and a dining experience you can trust!`,
     },
     {
         image: Delivery,
