@@ -14,25 +14,20 @@ function Section4() {
                         <Col lg={6} className="px-5">
                             <h2>Nothing brings people together like a good burger</h2>
                             <p>
-                                Semper lacus cursus porta primis ligula risus tempus and
-                                sagittis ipsum mauris lectus laoreet purus ipsum tempor enim
-                                ipsum porta justo integer ultrice aligula lectus aenean magna
-                                and pulvinar purus at pretium gravida
+                            Crafted with perfection, our burgers bring together the finest ingredients, bold flavors, and a touch of culinary magic for an unforgettable dining experience! From the first bite to the last, each layer is designed to deliver the perfect balance of taste and texture—juicy, flavorful patties, crisp, garden-fresh toppings, and a soft, toasted bun. Whether you're craving a classic favorite or an adventurous new creation, every burger is a masterpiece made just for you!
                             </p>
                             <ul>
                                 <li>
                                     <p>
-                                        Fringilla risus, luctus mauris orci auctor purus euismod
-                                        pretium purus pretium ligula rutrum tempor sapien
+                                    Savor the perfect blend of flavors and textures, expertly crafted to satisfy your cravings with every delicious bite!
                                     </p>
                                 </li>
                                 <li>
-                                    <p>Quaerat sodales sapien euismod purus blandit</p>
+                                    <p>Pure indulgence in every bite—our burgers redefine taste with premium ingredients and irresistible flavors!</p>
                                 </li>
                                 <li>
                                     <p>
-                                        Nemo ipsam egestas volute turpis dolores ut aliquam quaerat
-                                        sodales sapien undo pretium a purus mauris
+                                    Experience the ultimate burger delight—juicy, flavorful, and made to satisfy your cravings like never before!
                                     </p>
                                 </li>
                             </ul>
