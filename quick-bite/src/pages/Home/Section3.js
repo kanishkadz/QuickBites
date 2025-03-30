@@ -105,8 +105,7 @@ function Section3() {
                 <Row>
                     <Col lg={{ span: 8, offset: 2 }} className="text-center mb-5">
                         <h2>OUR CRAZY BURGERS</h2>
-                        <p className="para">Aliquam a augue suscipit, luctus neque purus ipsum neque undo
-                            dolor primis libero tempus, blandit a cursus varius magna.
+                        <p className="para">A wild and flavorful adventure in every bite! Packed with outrageous toppings, juicy patties, and bold flavors, these burgers are crafted for those who dare to taste the extraordinary!
                         </p>
                     </Col>
                 </Row>
