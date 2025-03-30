@@ -24,9 +24,7 @@ function Section1() {
                             <h1 className="text-white">New Burger</h1>
                             <h2 className="text-white">With Onion</h2>
                             <p className="text-white pt-2 pb-4">
-                                Feugiat primis ligula risus auctor laoreet augue egestas mauris
-                                viverra tortor in iaculis pretium at magna mauris ipsum primis
-                                rhoncus feugiat
+                                Introducing the Onion Burst Burger – a juicy, flame-grilled patty topped with crispy onion rings, caramelized onions, and zesty onion aioli for the ultimate onion lover’s delight!
                             </p>
                             <Link to="/" className="btn order_now">
                                 Order Now
